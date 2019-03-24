@@ -1,0 +1,140 @@
+Status(
+    _api=<tweepy.api.API object at 0x10dee9c88>,
+    _json={
+        'created_at': 'Thu Mar 21 03:54:13 +0000 2019', 
+        'id': 1108577526463385601,
+        'id_str': '1108577526463385601', 
+        'text': 'Y’all🗣 https://t.co/czPAQvu54h', 
+        'truncated': False, 
+        'entities': {
+            'hashtags': [], 
+            'symbols': [], 
+            'user_mentions': [], 
+            'urls': [
+                {
+                    'url': 'https://t.co/czPAQvu54h', 
+                    'expanded_url': 'https://twitter.com/aaliyahjay/status/1108367675745538050', 
+                    'display_url': 'twitter.com/aaliyahjay/sta…', 
+                    'indices': [7, 30]
+                    }
+                    ]
+                    },
+        'metadata': {'iso_language_code': 'en', 'result_type': 'recent'}, 
+        'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 
+        'in_reply_to_status_id': None, 
+        'in_reply_to_status_id_str': None, 
+        'in_reply_to_user_id': None, 
+        'in_reply_to_user_id_str': None, 
+        'in_reply_to_screen_name': None, 
+        'user': {'id': 128157497, 'id_str': '128157497', 
+        'name': 'Mandy K', 
+        'screen_name': 'mandykesebonye', 
+        'location': 'Australia', 
+        'description': 'Aspiring Fashion Stylist| Makeup Artist | #beauty #fashion #youtuber |Snapchat: mandyvmk |Instagram: missmandyk_ | mandykmua@gmail.com', 
+        'url': 'https://t.co/R53jv0cMnI', 
+        'entities': {'url': {'urls': [{'url': 'https://t.co/R53jv0cMnI', 'expanded_url': 'http://www.youtube.com/c/MandyKgakololo', 'display_url': 'youtube.com/c/MandyKgakolo…', 'indices': [0, 23]}]}, 'description': {'urls': []}}, 
+        'protected': False, 
+        'followers_count': 88, 
+        'friends_count': 106, 
+        'listed_count': 9, 
+        'created_at': 'Wed Mar 31 08:00:07 +0000 2010', 
+        'favourites_count': 116, 
+        'utc_offset': None, 
+        'time_zone': None, 
+        'geo_enabled': True, 
+        'verified': False, 
+        'statuses_count': 718, 
+        'lang': 'en', 
+        'contributors_enabled': False, 
+        'is_translator': False, 
+        'is_translation_enabled': False, 
+        'profile_background_color': 'C0DEED', 
+        'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 
+        'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 
+        'profile_background_tile': False, 
+        'profile_image_url': 'http://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 
+        'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 
+        'profile_banner_url': 'https://pbs.twimg.com/profile_banners/128157497/1532168611', 
+        'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 
+        'profile_sidebar_fill_color': 'DDEEF6', 
+        'profile_text_color': '333333', 
+        'profile_use_background_image': True, 
+        'has_extended_profile': True, 
+        'default_profile': True, 
+        'default_profile_image': False, 
+        'following': False, 
+        'follow_request_sent': False, 
+        'notifications': False, 
+        'translator_type': 'none'}, 
+        'geo': None, 
+        'coordinates': None, 
+        'place': {
+            'id': '01864a8a64df9dc4', 'url': 'https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json', 
+            'place_type': 'city', 
+            'name': 'Melbourne', 
+            'full_name': 'Melbourne, Victoria', 
+            'country_code': 'AU', 
+            'country': 'Australia', 
+            'contained_within': [], 
+            'bounding_box': {'type': 'Polygon', 'coordinates': [[[144.593741856, -38.433859306], [145.512528832, -38.433859306], [145.512528832, -37.5112737225], [144.593741856, -37.5112737225]]]}, 
+            'attributes': {}
+            }, 
+
+        'contributors': None, 
+        'is_quote_status': True, 
+        'quoted_status_id': 1108367675745538050, 
+        'quoted_status_id_str': '1108367675745538050', 
+        'quoted_status': {'created_at': 'Wed Mar 20 14:00:21 +0000 2019', 'id': 1108367675745538050, 'id_str': '1108367675745538050', 'text': 'My bf &amp; I just came back from a two week trip and already miss each other so much. He told me to meet him this afte… https://t.co/0olFtnUPED', 'truncated': True, 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/0olFtnUPED', 'expanded_url': 'https://twitter.com/i/web/status/1108367675745538050', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [121, 144]}]}, 'metadata': {'iso_language_code': 'en', 'result_type': 'recent'}, 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 154713794, 'id_str': '154713794', 'name': 'ItGIRL $', 'screen_name': 'AaliyahJay', 'location': '', 'description': 'SHOP NOW 🛍 https://t.co/kbPmHglaC1', 'url': 'https://t.co/KVnxsSA9Hy', 'entities': {'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, 'protected': False, 'followers_count': 149673, 'friends_count': 137, 'listed_count': 853, 'created_at': 'Sat Jun 12 00:56:33 +0000 2010', 'favourites_count': 8077, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 98179, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'F2467F', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/154713794/1547847615', 'profile_link_color': 'F52E77', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'FFFFFF', 'profile_text_color': 'FF297F', 'profile_use_background_image': True, 'has_extended_profile': False, 'default_profile': False, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'retweet_count': 1020, 'favorite_count': 9046, 'favorited': False, 'retweeted': False, 'lang': 'en'}, 
+        
+        'retweet_count': 0, 
+        'favorite_count': 0, 
+        'favorited': False, 
+        'retweeted': False, 
+        'possibly_sensitive': False, 
+        'lang': 'en'}, 
+        
+    created_at=datetime.datetime(2019, 3, 21, 3, 54, 13), 
+    id=1108577526463385601, 
+    id_str='1108577526463385601', 
+    text='Y’all🗣 https://t.co/czPAQvu54h', 
+    truncated=False, 
+
+    entities={'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/czPAQvu54h', 'expanded_url': 'https://twitter.com/aaliyahjay/status/1108367675745538050', 'display_url': 'twitter.com/aaliyahjay/sta…', 'indices': [7, 30]}]},
+    
+    
+    metadata={'iso_language_code': 'en', 'result_type': 'recent'}, 
+    source='Twitter for iPhone', 
+    source_url='http://twitter.com/download/iphone', 
+    in_reply_to_status_id=None, 
+    in_reply_to_status_id_str=None, 
+    in_reply_to_user_id=None, 
+    in_reply_to_user_id_str=None, 
+    in_reply_to_screen_name=None, 
+    
+
+    author=User(_api=<tweepy.api.API object at 0x10dee9c88>, _json={'id': 128157497, 'id_str': '128157497', 'name': 'Mandy K', 'screen_name': 'mandykesebonye', 'location': 'Australia', 'description': 'Aspiring Fashion Stylist| Makeup Artist | #beauty #fashion #youtuber |Snapchat: mandyvmk |Instagram: missmandyk_ | mandykmua@gmail.com', 'url': 'https://t.co/R53jv0cMnI', 'entities': {'url': {'urls': [{'url': 'https://t.co/R53jv0cMnI', 'expanded_url': 'http://www.youtube.com/c/MandyKgakololo', 'display_url': 'youtube.com/c/MandyKgakolo…', 'indices': [0, 23]}]}, 'description': {'urls': []}}, 'protected': False, 'followers_count': 88, 'friends_count': 106, 'listed_count': 9, 'created_at': 'Wed Mar 31 08:00:07 +0000 2010', 'favourites_count': 116, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 718, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/128157497/1532168611', 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'has_extended_profile': True, 'default_profile': True, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, id=128157497, id_str='128157497', name='Mandy K', screen_name='mandykesebonye', location='Australia', description='Aspiring Fashion Stylist| Makeup Artist | #beauty #fashion #youtuber |Snapchat: mandyvmk |Instagram: missmandyk_ | mandykmua@gmail.com', url='https://t.co/R53jv0cMnI', entities={'url': {'urls': [{'url': 'https://t.co/R53jv0cMnI', 'expanded_url': 'http://www.youtube.com/c/MandyKgakololo', 'display_url': 'youtube.com/c/MandyKgakolo…', 'indices': [0, 23]}]}, 'description': {'urls': []}}, protected=False, followers_count=88, friends_count=106, listed_count=9, created_at=datetime.datetime(2010, 3, 31, 8, 0, 7), favourites_count=116, utc_offset=None, time_zone=None, geo_enabled=True, verified=False, statuses_count=718, lang='en', contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color='C0DEED', profile_background_image_url='http://abs.twimg.com/images/themes/theme1/bg.png', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme1/bg.png', profile_background_tile=False, profile_image_url='http://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/128157497/1532168611', profile_link_color='1DA1F2', profile_sidebar_border_color='C0DEED', profile_sidebar_fill_color='DDEEF6', profile_text_color='333333', profile_use_background_image=True, has_extended_profile=True, default_profile=True, default_profile_image=False, following=False, follow_request_sent=False, notifications=False, translator_type='none'), 
+    
+    user=User(_api=<tweepy.api.API object at 0x10dee9c88>, _json={'id': 128157497, 'id_str': '128157497', 'name': 'Mandy K', 'screen_name': 'mandykesebonye', 'location': 'Australia', 'description': 'Aspiring Fashion Stylist| Makeup Artist | #beauty #fashion #youtuber |Snapchat: mandyvmk |Instagram: missmandyk_ | mandykmua@gmail.com', 'url': 'https://t.co/R53jv0cMnI', 'entities': {'url': {'urls': [{'url': 'https://t.co/R53jv0cMnI', 'expanded_url': 'http://www.youtube.com/c/MandyKgakololo', 'display_url': 'youtube.com/c/MandyKgakolo…', 'indices': [0, 23]}]}, 'description': {'urls': []}}, 'protected': False, 'followers_count': 88, 'friends_count': 106, 'listed_count': 9, 'created_at': 'Wed Mar 31 08:00:07 +0000 2010', 'favourites_count': 116, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 718, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'C0DEED', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': False, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/128157497/1532168611', 'profile_link_color': '1DA1F2', 'profile_sidebar_border_color': 'C0DEED', 'profile_sidebar_fill_color': 'DDEEF6', 'profile_text_color': '333333', 'profile_use_background_image': True, 'has_extended_profile': True, 'default_profile': True, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, id=128157497, id_str='128157497', name='Mandy K', screen_name='mandykesebonye', location='Australia', description='Aspiring Fashion Stylist| Makeup Artist | #beauty #fashion #youtuber |Snapchat: mandyvmk |Instagram: missmandyk_ | mandykmua@gmail.com', url='https://t.co/R53jv0cMnI', entities={'url': {'urls': [{'url': 'https://t.co/R53jv0cMnI', 'expanded_url': 'http://www.youtube.com/c/MandyKgakololo', 'display_url': 'youtube.com/c/MandyKgakolo…', 'indices': [0, 23]}]}, 'description': {'urls': []}}, protected=False, followers_count=88, friends_count=106, listed_count=9, created_at=datetime.datetime(2010, 3, 31, 8, 0, 7), favourites_count=116, utc_offset=None, time_zone=None, geo_enabled=True, verified=False, statuses_count=718, lang='en', contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color='C0DEED', profile_background_image_url='http://abs.twimg.com/images/themes/theme1/bg.png', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme1/bg.png', profile_background_tile=False, profile_image_url='http://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1020615061465731072/GWUxWn4k_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/128157497/1532168611', profile_link_color='1DA1F2', profile_sidebar_border_color='C0DEED', profile_sidebar_fill_color='DDEEF6', profile_text_color='333333', profile_use_background_image=True, has_extended_profile=True, default_profile=True, default_profile_image=False, following=False, follow_request_sent=False, notifications=False, translator_type='none'), 
+    
+    
+    geo=None, 
+    coordinates=None, 
+    
+    
+    place=Place(_api=<tweepy.api.API object at 0x10dee9c88>, id='01864a8a64df9dc4', url='https://api.twitter.com/1.1/geo/id/01864a8a64df9dc4.json', place_type='city', name='Melbourne', full_name='Melbourne, Victoria', country_code='AU', country='Australia', contained_within=[], bounding_box=BoundingBox(_api=<tweepy.api.API object at 0x10dee9c88>, type='Polygon', coordinates=[[[144.593741856, -38.433859306], [145.512528832, -38.433859306], [145.512528832, -37.5112737225], [144.593741856, -37.5112737225]]]), attributes={}), 
+    
+    
+    contributors=None, 
+    is_quote_status=True, 
+    quoted_status_id=1108367675745538050, 
+    quoted_status_id_str='1108367675745538050',
+    
+    
+    quoted_status=Status(_api=<tweepy.api.API object at 0x10dee9c88>, _json={'created_at': 'Wed Mar 20 14:00:21 +0000 2019', 'id': 1108367675745538050, 'id_str': '1108367675745538050', 'text': 'My bf &amp; I just came back from a two week trip and already miss each other so much. He told me to meet him this afte… https://t.co/0olFtnUPED', 'truncated': True, 'entities': {'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/0olFtnUPED', 'expanded_url': 'https://twitter.com/i/web/status/1108367675745538050', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [121, 144]}]}, 'metadata': {'iso_language_code': 'en', 'result_type': 'recent'}, 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_status_id': None, 'in_reply_to_status_id_str': None, 'in_reply_to_user_id': None, 'in_reply_to_user_id_str': None, 'in_reply_to_screen_name': None, 'user': {'id': 154713794, 'id_str': '154713794', 'name': 'ItGIRL $', 'screen_name': 'AaliyahJay', 'location': '', 'description': 'SHOP NOW 🛍 https://t.co/kbPmHglaC1', 'url': 'https://t.co/KVnxsSA9Hy', 'entities': {'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, 'protected': False, 'followers_count': 149673, 'friends_count': 137, 'listed_count': 853, 'created_at': 'Sat Jun 12 00:56:33 +0000 2010', 'favourites_count': 8077, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 98179, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'F2467F', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/154713794/1547847615', 'profile_link_color': 'F52E77', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'FFFFFF', 'profile_text_color': 'FF297F', 'profile_use_background_image': True, 'has_extended_profile': False, 'default_profile': False, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, 'geo': None, 'coordinates': None, 'place': None, 'contributors': None, 'is_quote_status': False, 'retweet_count': 1020, 'favorite_count': 9046, 'favorited': False, 'retweeted': False, 'lang': 'en'}, created_at=datetime.datetime(2019, 3, 20, 14, 0, 21), id=1108367675745538050, id_str='1108367675745538050', text='My bf &amp; I just came back from a two week trip and already miss each other so much. He told me to meet him this afte… https://t.co/0olFtnUPED', truncated=True, entities={'hashtags': [], 'symbols': [], 'user_mentions': [], 'urls': [{'url': 'https://t.co/0olFtnUPED', 'expanded_url': 'https://twitter.com/i/web/status/1108367675745538050', 'display_url': 'twitter.com/i/web/status/1…', 'indices': [121, 144]}]}, metadata={'iso_language_code': 'en', 'result_type': 'recent'}, source='Twitter for iPhone', source_url='http://twitter.com/download/iphone', in_reply_to_status_id=None, in_reply_to_status_id_str=None, in_reply_to_user_id=None, in_reply_to_user_id_str=None, in_reply_to_screen_name=None, author=User(_api=<tweepy.api.API object at 0x10dee9c88>, _json={'id': 154713794, 'id_str': '154713794', 'name': 'ItGIRL $', 'screen_name': 'AaliyahJay', 'location': '', 'description': 'SHOP NOW 🛍 https://t.co/kbPmHglaC1', 'url': 'https://t.co/KVnxsSA9Hy', 'entities': {'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, 'protected': False, 'followers_count': 149673, 'friends_count': 137, 'listed_count': 853, 'created_at': 'Sat Jun 12 00:56:33 +0000 2010', 'favourites_count': 8077, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 98179, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'F2467F', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/154713794/1547847615', 'profile_link_color': 'F52E77', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'FFFFFF', 'profile_text_color': 'FF297F', 'profile_use_background_image': True, 'has_extended_profile': False, 'default_profile': False, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, id=154713794, id_str='154713794', name='ItGIRL $', screen_name='AaliyahJay', location='', description='SHOP NOW 🛍 https://t.co/kbPmHglaC1', url='https://t.co/KVnxsSA9Hy', entities={'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, protected=False, followers_count=149673, friends_count=137, listed_count=853, created_at=datetime.datetime(2010, 6, 12, 0, 56, 33), favourites_count=8077, utc_offset=None, time_zone=None, geo_enabled=True, verified=False, statuses_count=98179, lang='en', contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color='F2467F', profile_background_image_url='http://abs.twimg.com/images/themes/theme1/bg.png', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme1/bg.png', profile_background_tile=True, profile_image_url='http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/154713794/1547847615', profile_link_color='F52E77', profile_sidebar_border_color='FFFFFF', profile_sidebar_fill_color='FFFFFF', profile_text_color='FF297F', profile_use_background_image=True, has_extended_profile=False, default_profile=False, default_profile_image=False, following=False, follow_request_sent=False, notifications=False, translator_type='none'), user=User(_api=<tweepy.api.API object at 0x10dee9c88>, _json={'id': 154713794, 'id_str': '154713794', 'name': 'ItGIRL $', 'screen_name': 'AaliyahJay', 'location': '', 'description': 'SHOP NOW 🛍 https://t.co/kbPmHglaC1', 'url': 'https://t.co/KVnxsSA9Hy', 'entities': {'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, 'protected': False, 'followers_count': 149673, 'friends_count': 137, 'listed_count': 853, 'created_at': 'Sat Jun 12 00:56:33 +0000 2010', 'favourites_count': 8077, 'utc_offset': None, 'time_zone': None, 'geo_enabled': True, 'verified': False, 'statuses_count': 98179, 'lang': 'en', 'contributors_enabled': False, 'is_translator': False, 'is_translation_enabled': False, 'profile_background_color': 'F2467F', 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_background_tile': True, 'profile_image_url': 'http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/154713794/1547847615', 'profile_link_color': 'F52E77', 'profile_sidebar_border_color': 'FFFFFF', 'profile_sidebar_fill_color': 'FFFFFF', 'profile_text_color': 'FF297F', 'profile_use_background_image': True, 'has_extended_profile': False, 'default_profile': False, 'default_profile_image': False, 'following': False, 'follow_request_sent': False, 'notifications': False, 'translator_type': 'none'}, id=154713794, id_str='154713794', name='ItGIRL $', screen_name='AaliyahJay', location='', description='SHOP NOW 🛍 https://t.co/kbPmHglaC1', url='https://t.co/KVnxsSA9Hy', entities={'url': {'urls': [{'url': 'https://t.co/KVnxsSA9Hy', 'expanded_url': 'http://youtube.com/msaaliyahjay', 'display_url': 'youtube.com/msaaliyahjay', 'indices': [0, 23]}]}, 'description': {'urls': [{'url': 'https://t.co/kbPmHglaC1', 'expanded_url': 'https://fanjoy.co/collections/aaliyah-jay', 'display_url': 'fanjoy.co/collections/aa…', 'indices': [11, 34]}]}}, protected=False, followers_count=149673, friends_count=137, listed_count=853, created_at=datetime.datetime(2010, 6, 12, 0, 56, 33), favourites_count=8077, utc_offset=None, time_zone=None, geo_enabled=True, verified=False, statuses_count=98179, lang='en', contributors_enabled=False, is_translator=False, is_translation_enabled=False, profile_background_color='F2467F', profile_background_image_url='http://abs.twimg.com/images/themes/theme1/bg.png', profile_background_image_url_https='https://abs.twimg.com/images/themes/theme1/bg.png', profile_background_tile=True, profile_image_url='http://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', profile_image_url_https='https://pbs.twimg.com/profile_images/1108254972469235712/wu_olDjk_normal.jpg', profile_banner_url='https://pbs.twimg.com/profile_banners/154713794/1547847615', profile_link_color='F52E77', profile_sidebar_border_color='FFFFFF', profile_sidebar_fill_color='FFFFFF', profile_text_color='FF297F', profile_use_background_image=True, has_extended_profile=False, default_profile=False, default_profile_image=False, following=False, follow_request_sent=False, notifications=False, translator_type='none'), geo=None, coordinates=None, place=None, contributors=None, is_quote_status=False, retweet_count=1020, favorite_count=9046, favorited=False, retweeted=False, lang='en'), 
+    
+    retweet_count=0, 
+    favorite_count=0, 
+    favorited=False, 
+    retweeted=False, 
+    possibly_sensitive=False, 
+    lang='en')
