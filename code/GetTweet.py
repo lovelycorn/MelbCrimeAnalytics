@@ -24,12 +24,10 @@ number = 0
 
 #This is the second way to call API
 max_tweets = 1000
-search_results = tweepy.Cursor(api.search, q="place:01864a8a64df9dc4").items()
+search_results = tweepy.Cursor(api.search, q="place:01864a8a64df9dc4").items(5)
 for tweet in search_results:
-    if number == 3:
-        break
     number += 1
-    print(tweet)
+    print(tweet._json['created_at'])
     print(tweet._json['text'])
     print(number)
 #This is the third way to call API
