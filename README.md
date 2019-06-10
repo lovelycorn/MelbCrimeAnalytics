@@ -34,5 +34,5 @@
  ----------------------------------------------------------------
  
  # ps
-   github cannot upload all dataset, we stored them in google drive
+   github cannot upload all dataset, we stored raw data in google drive
    https://drive.google.com/open?id=1LO03FmERg6Vdoav3kFpKb1H26S6oyfQ1
